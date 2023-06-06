@@ -1,2 +1,2 @@
-# cinemo: https://smblnts21.github.io/cinemo/index.html
+# cinemo: https://smblnts21.github.io/cinemo/
 ubicaciones
